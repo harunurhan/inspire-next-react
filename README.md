@@ -1,3 +1,5 @@
+# __DEVELOPMENT has been moved to https://github.com/inspirehep/inspirehep-ui__
+
 # inspire-next-react
 
 UI for [inspirehep/inspire-next](https://github.com/inspirehep/inspire-next) built with React.
